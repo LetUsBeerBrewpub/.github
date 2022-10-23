@@ -1,4 +1,4 @@
-<!-- ![logo](https://github.com/LetUsBeerBrewpub/.github/blob/main/profile/full_500_500.png "Let's Beer Brewpub") -->
+<img src="https://github.com/LetUsBeerBrewpub/.github/blob/main/profile/doorhead.png" hight="300">
 
 ## 乐啤酒社 ｜ Let's Beer Brewpub
 
